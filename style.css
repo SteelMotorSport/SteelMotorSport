@@ -119,7 +119,7 @@ img{
     width: 60px;
     position:fixed;
     right: 5px;
-    top: 500px;
+    top: 400px;
     border-radius: 5px;
 }
 
@@ -127,7 +127,7 @@ img{
     width: 60px;
     position:fixed;
     right: 5px;
-    top: 560px;
+    top: 460px;
     border-radius: 100px;
     
 }
@@ -136,7 +136,7 @@ img{
     width: 61px;
     position:fixed;
     right: 5px;
-    top: 620px;
+    top: 520px;
     border-radius: 100px;
     
 }
@@ -154,30 +154,6 @@ img{
     border-radius: 50%;
 }
 
-.tudosobrepessoa001{
-    display:flex;
-    flex-direction: row;
-}
-
-.imgintegrante001{
-    width: 650px;
-    margin: 80px AUTO 10px 8px;
-    bottom: 10px;
-    
-}
-
-.infosintegrantes{
-    color:aliceblue;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-weight: bold;
-    font-size: 30px;
-    height: 100px;
-    width: 610px;
-    margin: 150px 10px auto auto;
-    border-radius: 100px;
-    bottom: 180px;
-}
-
 .introducaoprojeto{
     color:aliceblue;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -189,3 +165,349 @@ img{
     padding-right: 25px;
     letter-spacing: 3px;
 }
+
+/* pessoa01 */
+
+.tudosobrepessoa001{
+    display:flex;
+    flex-direction: row;
+}
+
+.imgintegrante001{
+    width: 635px;
+    margin: 80px AUTO 10px 8px;
+    bottom: 10px;
+    
+}
+
+.infosintegrantes001{
+    color:aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    height: 180px;
+    width: 610px;
+    margin: 440px 280px auto auto;
+    border-radius: 100px;
+    bottom: 180px;
+    letter-spacing: 2px;
+
+}
+
+
+
+.datadenascimentoCOLORpessoa001{
+    color: blueviolet;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    margin: auto auto auto 800px;
+}
+
+.nascimentointegrante001{
+    color: #ccc;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    margin: auto auto auto 800px;
+}
+
+.areadaCOLORpessoa001{
+    color: blueviolet;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    margin: auto auto auto 800px;
+}
+
+.areadapessoa001{
+    color: #ccc;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    margin: auto auto auto 800px;
+}
+/* pessoa01 */
+/* pessoa02 */
+
+.tudosobrepessoa002{
+    display:flex;
+    flex-direction: row;
+}
+
+.imgintegrante002{
+    width: 635px;
+    margin: 80px AUTO 10px 8px;
+    bottom: 10px;
+    
+}
+
+.infosintegrantes002{
+    color:aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    height: 100px;
+    width: 610px;
+    margin: 540px 280px auto auto;
+    border-radius: 100px;
+    bottom: 180px;
+    letter-spacing: 2px;
+}
+
+
+
+.datadenascimentoCOLORpessoa002{
+    color: blueviolet;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    margin: auto auto auto 800px;
+}
+
+.nascimentointegrante002{
+    color: #ccc;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    margin: auto auto auto 800px;
+}
+
+.areadaCOLORpessoa002{
+    color: blueviolet;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    margin: auto auto auto 800px;
+}
+
+.areadapessoa002{
+    color: #ccc;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    margin: auto auto auto 800px;
+}
+/* pessoa02 */
+
+/* pessoa03 */
+
+.tudosobrepessoa003{
+    display:flex;
+    flex-direction: row;
+}
+
+.imgintegrante003{
+    width: 635px;
+    margin: 80px AUTO 10px 8px;
+    bottom: 10px;
+    
+}
+
+.infosintegrantes003{
+    color:aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    height: 100px;
+    width: 610px;
+    margin: 540px 280px auto auto;
+    border-radius: 100px;
+    bottom: 180px;
+    letter-spacing: 2px;
+}
+
+
+
+.datadenascimentoCOLORpessoa003{
+    color: blueviolet;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    margin: auto auto auto 800px;
+}
+
+.nascimentointegrante003{
+    color: #ccc;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    margin: auto auto auto 800px;
+}
+
+.areadaCOLORpessoa003{
+    color: blueviolet;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    margin: auto auto auto 800px;
+}
+
+.areadapessoa003{
+    color: #ccc;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    margin: auto auto auto 800px;
+}
+/* pessoa03 */
+/* pessoa04 */
+
+.tudosobrepessoa004{
+    display:flex;
+    flex-direction: row;
+}
+
+.imgintegrante004{
+    width: 635px;
+    margin: 80px AUTO 10px 8px;
+    bottom: 10px;
+    
+}
+
+.infosintegrantes004{
+    color:aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    height: 100px;
+    width: 610px;
+    margin: 540px 280px auto auto;
+    border-radius: 100px;
+    bottom: 180px;
+    letter-spacing: 2px;
+}
+
+
+
+.datadenascimentoCOLORpessoa004{
+    color: blueviolet;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    margin: 60px auto auto 800px;
+}
+
+.nascimentointegrante004{
+    color: #ccc;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    margin: auto auto auto 800px;
+}
+
+.areadaCOLORpessoa004{
+    color: blueviolet;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    margin: auto auto auto 800px;
+}
+
+.areadapessoa004{
+    color: #ccc;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    margin: auto auto auto 800px;
+}
+/* pessoa04 */
+
+/* pessoa05 */
+
+.tudosobrepessoa005{
+    display:flex;
+    flex-direction: row;
+}
+
+.imgintegrante005{
+    width: 635px;
+    margin: 80px AUTO 10px 8px;
+    bottom: 10px;
+    
+}
+
+.infosintegrantes005{
+    color:aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    height: 100px;
+    width: 610px;
+    margin: 540px 280px auto auto;
+    border-radius: 100px;
+    bottom: 180px;
+    letter-spacing: 2px;
+}
+
+
+
+.datadenascimentoCOLORpessoa005{
+    color: blueviolet;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    margin: 65px auto auto 800px;
+}
+
+.nascimentointegrante005{
+    color: #ccc;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    margin: auto auto auto 800px;
+}
+
+.areadaCOLORpessoa005{
+    color: blueviolet;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    margin: auto auto auto 800px;
+}
+
+.areadapessoa005{
+    color: #ccc;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    margin: auto auto auto 800px;
+}
+/* pessoa05 */
+/* pessoa06 */
+
+.tudosobrepessoa006{
+    display:flex;
+    flex-direction: row;
+}
+
+.imgintegrante006{
+    width: 635px;
+    margin: 80px AUTO 10px 8px;
+    bottom: 10px;
+    
+}
+
+.infosintegrantes006{
+    color:aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    height: 100px;
+    width: 610px;
+    margin: 540px 280px auto auto;
+    border-radius: 100px;
+    bottom: 180px;
+    letter-spacing: 2px;
+}
+
+
+
+.datadenascimentoCOLORpessoa006{
+    color: blueviolet;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    margin: 80px auto auto 800px;
+}
+
+.nascimentointegrante006{
+    color: #ccc;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    margin: auto auto auto 800px;
+}
+
+.areadaCOLORpessoa006{
+    color: blueviolet;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    margin: auto auto auto 800px;
+}
+
+.areadapessoa006{
+    color: #ccc;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    margin: auto auto auto 800px;
+}
+/* pessoa06 */
