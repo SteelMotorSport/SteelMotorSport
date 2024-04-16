@@ -1,0 +1,191 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+    position:relative;
+}
+
+.imagem_logo{
+    width: 850px;
+    margin: 80px auto 10px auto;
+    
+}
+
+
+img{
+    width: 100%;
+}
+
+.nomeclatura001{
+    color:aliceblue;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: bold;
+    font-size: 22px;
+    height: 20px;
+    width: 300px;
+    margin: 3px auto;
+    padding-right: 300px;
+    letter-spacing: 3px;
+}
+.nomeclatura002{
+    color:aliceblue;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: bold;
+    font-size: 22px;
+    height: 45px;
+    width: 200px;
+    margin: 3px auto;
+    padding-right: 225px;
+    letter-spacing: 3px;
+}
+
+.data001{
+    color:rgb(240, 241, 255);
+    font-family: 'Trebuchet MS Condensed', 'Arial Narrow', sans-serif;
+    font-style: bold;
+    font-size: 23px;
+    height: 30px;
+    width: 300px;
+    margin: 3px auto;
+    padding-left: 290px;
+    letter-spacing: 17px;
+}
+.nomeintegrante001{
+    color:rgb(28, 212, 157);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    height: 40px;
+    width: 300px;
+    margin: 3px auto;
+    padding-left: 520px;
+    letter-spacing: 3px;
+}
+.nomeintegrante002{
+    color:rgb(202, 27, 27);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    height: 40px;
+    width: 300px;
+    margin: 3px auto;
+    padding-left: 520px;
+    letter-spacing: 3px;
+}
+.nomeintegrante003{
+    color:rgb(28, 212, 157);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    height: 40px;
+    width: 300px;
+    margin: 3px auto;
+    padding-left: 520px;
+    letter-spacing: 3px;
+}
+.nomeintegrante004{
+    color:rgb(202, 27, 27);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    height: 40px;
+    width: 300px;
+    margin: 3px auto;
+    padding-left: 520px;
+    letter-spacing: 3px;
+}
+.nomeintegrante005{
+    color:rgb(28, 212, 157);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    height: 40px;
+    width: 300px;
+    margin: 3px auto;
+    padding-left: 520px;
+    letter-spacing: 3px;
+}
+.nomeintegrante006{
+    color:rgb(202, 27, 27);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    height: 50px;
+    width: 300px;
+    margin: 3px auto;
+    padding-left: 520px;
+    letter-spacing: 3px;
+}
+
+.instagram{
+    
+    width: 60px;
+    position:fixed;
+    right: 5px;
+    top: 500px;
+    border-radius: 5px;
+}
+
+.youtube{
+    width: 60px;
+    position:fixed;
+    right: 5px;
+    top: 560px;
+    border-radius: 100px;
+    
+}
+
+.facebook{
+    width: 61px;
+    position:fixed;
+    right: 5px;
+    top: 620px;
+    border-radius: 100px;
+    
+}
+
+.circulo001{
+    width: 20px;
+    height: 20px;
+    border: 1px solid #ccc;
+    position:absolute;
+    right: 5px;
+    top: 580px;
+    bottom: 1800px;
+    left: -130px;
+    margin: auto;
+    border-radius: 50%;
+}
+
+.tudosobrepessoa001{
+    display:flex;
+    flex-direction: row;
+}
+
+.imgintegrante001{
+    width: 650px;
+    margin: 80px AUTO 10px 8px;
+    bottom: 10px;
+    
+}
+
+.infosintegrantes{
+    color:aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    height: 100px;
+    width: 610px;
+    margin: 150px 10px auto auto;
+    border-radius: 100px;
+    bottom: 180px;
+}
+
+.introducaoprojeto{
+    color:aliceblue;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: bold;
+    font-size: 22px;
+    height: 130px;
+    width: 25px 20px auto auto;
+    margin: 20px auto;
+    padding-right: 25px;
+    letter-spacing: 3px;
+}
