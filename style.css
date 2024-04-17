@@ -19,6 +19,34 @@ img{
     width: 100%;
 }
 
+.nomedaequipe{
+    color:aliceblue;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: bold;
+    font-size: 22px;
+    height: 20px;
+    width: 300px;
+    margin: 50px 460px auto auto;
+    padding-right: 300px;
+    letter-spacing: 3px;
+}
+
+.imagemdaequipe{
+    width: 850px;
+    margin: 30px auto 10px auto;
+}
+
+.todososnomes{
+    margin: auto auto -2500px;
+    display:flex;
+    flex-direction: row;
+}
+
+.somentenomes{
+    display:flex;
+    flex-direction:column;
+}
+
 .nomeclatura001{
     color:aliceblue;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -169,6 +197,7 @@ img{
 /* pessoa01 */
 
 .tudosobrepessoa001{
+    margin: 120px auto auto auto;
     display:flex;
     flex-direction: row;
 }
@@ -508,6 +537,115 @@ img{
     color: #ccc;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 22px;
-    margin: auto auto auto 800px;
+    margin: auto auto 100px 800px;
 }
 /* pessoa06 */
+
+.tituloprojetosocial{
+    color: #ff2ce3;
+    margin: auto;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    margin: auto 240px;
+}
+
+.subtituloprojetosicial{
+    color: #f10e6d;
+    margin: auto;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 35px;
+    margin: auto 240px;
+}
+
+.textoprojetosocial{
+    color: #ccc;
+    margin: auto;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    width: 1500px;
+    margin: auto auto 100px auto;
+}
+.tituloplanodenegocio{
+    color: #ff2ce3;
+    margin: auto;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    margin: auto 240px;
+}
+
+.textoplanodenegocio{
+    color: #ccc;
+    margin: auto;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    width: 1500px;
+    margin: auto auto 100px auto;
+}
+
+.tituloprojetotecnico{
+    color: #ff2ce3;
+    margin: auto;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    margin: auto 240px;
+}
+
+.subtituloprojetotecnico{
+    color: #f10e6d;
+    margin: auto;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 35px;
+    margin: auto 240px;
+}
+
+.textoprojetotecnico{
+    color: #ccc;
+    margin: auto;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    width: 1500px;
+    margin: auto auto 100px auto;
+
+}
+
+.MUNDOSTAND{
+    display:flex;
+    flex-direction: row;
+}
+.textstand{
+    display:flex;
+    flex-direction:column;
+}
+
+.fotostand{
+    width: 635px;
+    margin: 80px AUTO 10px 8px;
+    bottom: 10px;
+}
+
+.titulostand{
+    color: #ff2ce3;
+    margin: auto;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    margin: auto 240px;
+}
+
+.subtitulostand{
+    color: #f10e6d;
+    margin: auto;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 35px;
+    margin: auto 240px;
+}
+
+.textostand{
+    color: #ccc;
+    margin: auto;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    width: 1500px;
+    margin: auto auto 100px auto;
+
+}
+
