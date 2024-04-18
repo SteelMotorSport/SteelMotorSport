@@ -9,8 +9,8 @@ body{
 }
 
 .imagem_logo{
-    width: 850px;
-    margin: 80px auto 10px auto;
+    width: 650px;
+    margin: 50px auto 5px auto;
     
 }
 
@@ -549,7 +549,7 @@ img{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 21px;
     width: 1500px;
-    margin: auto auto 100px auto;
+    margin: auto auto 70px auto;
 }
 .tituloplanodenegocio{
     color: #ff2ce3;
